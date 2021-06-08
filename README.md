@@ -7,3 +7,6 @@ The organization of this code has yet to be formalized but is loosely broken dow
 - physical optics modeling tools (e.g. [POPPY](https://github.com/spacetelescope/poppy))
 - analytic functions (e.g. Zernikes, Atmosphere, Disk Harmonics)
 - possibly more!
+
+## Best Practices
+- If you are writing a paper and referencing saltools, make an example notebook in the **papers** folder and update the list
